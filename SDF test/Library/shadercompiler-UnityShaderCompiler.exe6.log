@@ -1,0 +1,108 @@
+Base path: C:/Program Files/Unity/Hub/Editor/2018.4.23f1/Editor/Data
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=13661 outsize=40201 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13661 outsize=34949 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13661 outsize=34545 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13661 outsize=34569 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13661 outsize=41257 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13661 outsize=32681 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13661 outsize=36093 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13661 outsize=32549 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=26681 outsize=16081 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1226 outsize=781 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=11176 outsize=10437 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5022 outsize=9129 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=18731 outsize=8545 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=19063 outsize=14613 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=36517 outsize=44585 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16866 outsize=5809 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16866 outsize=7485 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16866 outsize=9301 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16866 outsize=8773 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16866 outsize=9789 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3265 outsize=4301 ok=1
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=2141 outsize=1633 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at DustyDebug.vfx(14): failed to open source file: 'Packages/com.unity.visualeffectgraph/Shaders/Common/VFXCommonCompute.cginc'
+  api=4 insize=5064 outsize=0 ok=0
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=14379 outsize=87113 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=14379 outsize=49789 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=14379 outsize=68793 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=26814 outsize=14253 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2059 outsize=1517 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2711 outsize=1517 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=7431 outsize=4897 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=18299 outsize=10769 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=19063 outsize=14753 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1806 outsize=553 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=34758 outsize=31513 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16866 outsize=6121 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16866 outsize=8469 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16866 outsize=6181 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16866 outsize=7957 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16866 outsize=8957 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16866 outsize=11229 ok=1
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=4907 outsize=1777 ok=1
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=5857 outsize=3517 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5154 outsize=2805 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=9542 outsize=6685 ok=1
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=4767 outsize=2269 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3535 outsize=1545 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5547 outsize=2893 ok=1
